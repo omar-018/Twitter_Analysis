@@ -22,3 +22,5 @@ The experimental outcomes revealed robust performance from both Random Forest an
   Accuracy: 94.87%
 
 These accuracy scores indicate the effectiveness of the chosen pre-processing technique and emphasize the models' ability to discern between extremist and non-extremist tweets with high precision. The close proximity of the accuracy scores between Random Forest and XGBoost suggests a comparable performance, showcasing the versatility of both models in tackling the classification task.
+
+<p align="left"><img src="https://github.com/omar-018/Twitter_Analysis/blob/main/results.png" alt="GIF 1", width="100%"></p>
